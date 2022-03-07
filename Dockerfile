@@ -1,5 +1,5 @@
 # For Security Labs we need both the application and DB running within the same container.
-# It's far easier to use the MariaDB base image and install Maven and Tomcat on top than
+# It's far easier to use the MariaDB baggggse image and install Maven and Tomcat on top than
 # the other way around. We are using Maven to enable re-compilation within the lab.
 #
 #https://hub.docker.com/_/mariadb/
